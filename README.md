@@ -8,12 +8,16 @@
 * [Questions](#questions)
 
 ## Description
-
+This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM. The seed data is created using Insomnia.
 
 ## Installation
-
+Download or clone repository to use this application on local machine.
+Node.js and MongoDB is required to run the application
+To install necessary dependencies, navigate to the root directory and run the following command: npm i
 
 ## Usage
+For more information - Please visit the following videos on how the application works.[Part-1](https://drive.google.com/file/d/1UXRhDAOrUsfBU433XSFZuxGM3iuhuwf7/view)
+[Part-2]([Part-1](https://drive.google.com/file/d/1UXRhDAOrUsfBU433XSFZuxGM3iuhuwf7/view))
 
 
 ## Contributing
