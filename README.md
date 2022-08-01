@@ -17,7 +17,7 @@ To install necessary dependencies, navigate to the root directory and run the fo
 
 ## Usage
 For more information - Please visit the following videos on how the application works.[Part-1](https://drive.google.com/file/d/1UXRhDAOrUsfBU433XSFZuxGM3iuhuwf7/view)
-[Part-2]([Part-1](https://drive.google.com/file/d/1UXRhDAOrUsfBU433XSFZuxGM3iuhuwf7/view))
+[Part-2](https://drive.google.com/file/d/1UXRhDAOrUsfBU433XSFZuxGM3iuhuwf7/view)
 
 
 ## Contributing
